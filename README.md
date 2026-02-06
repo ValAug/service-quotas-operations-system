@@ -1,4 +1,3 @@
-````markdown
 # 📊 service-quotas-operations-system
 
 A lightweight **AWS Service Quotas monitoring and alerting system**, built using **Terraform**, **Amazon CloudWatch**, and **Amazon SNS**.
