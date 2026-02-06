@@ -178,7 +178,5 @@ Its role is **early warning and visibility**.
 
 > Quotas should never surprise you in production.
 
-```
 
----
 
